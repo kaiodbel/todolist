@@ -95,8 +95,8 @@ Se você deseja contribuir para este projeto, siga estas etapas:
 
 ## Contato
 
-- Seu Kaio Miranda
-- Seu E-mail: kaiorjx@gmail.com
+- Nome: Kaio Miranda
+- E-mail: kaiorjx@gmail.com
 - Link do GitHub: [Seu Perfil no GitHub](https://github.com/kaiodbel)
 ```
 

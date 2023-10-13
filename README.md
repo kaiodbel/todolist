@@ -83,6 +83,19 @@ A estrutura do projeto pode incluir as seguintes pastas:
 ├─ README.md
 ```
 
+## Dependências do Projeto
+
+O projeto faz uso das seguintes dependências:
+
+- Spring Boot Starter Web
+- Spring Boot Starter Data JPA
+- H2 Database
+- Bcrypt
+- Spring Boot Starter Test
+- Lombok
+
+Para obter detalhes completos sobre as dependências, consulte o arquivo `pom.xml`.
+
 ## Contribuição
 
 Se você deseja contribuir para este projeto, siga estas etapas:
@@ -99,4 +112,3 @@ Se você deseja contribuir para este projeto, siga estas etapas:
 - E-mail: kaiorjx@gmail.com
 - Link do GitHub: [Seu Perfil no GitHub](https://github.com/kaiodbel)
 ```
-

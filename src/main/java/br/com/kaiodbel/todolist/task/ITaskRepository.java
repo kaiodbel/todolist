@@ -1,2 +1,8 @@
-package br.com.kaiodbel.todolist.task;public class ITaskRepository {
+package br.com.kaiodbel.todolist.task;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import java.util.UUID;
+
+public interface ITaskRepository extends JpaRepository<TaskModel, UUID> {
 }
